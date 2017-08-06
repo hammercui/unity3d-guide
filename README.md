@@ -2,7 +2,7 @@
 
 *  [1.unity3d下载与安装](#1-1unity3d下载与安装)
 *  [2.IDE的准备工作](#2-ide的准备工作)
-	- [Rider的安装与配置](#3-rider的安装与配置)
+	- [Rider的安装与配置](#rider的安装与配置)
 *  [3.unity3d基础入门](#3unity3d基础入门)
 	- [问题](#问题)
 	- [插件选择](#插件选择)
@@ -46,8 +46,8 @@ jetbrains的license server: http://idea.ibdyr.com/
 如何配置git呢？
 
 1.  修改后ctrl+s保存
-2.  Editor->Version Control ->Visible Meta Files,新版unity可能已经自动开启了
-3.  Editor->Asset Serializetion ->Force Text
+2. Editor->Project Setting->Editor->Version Control ->Visible Meta Files,新版unity可能已经自动开启了
+3.  Editor->Project Setting->Editor->Asset Serializetion ->Force Text
 4.  如何更新工程后，unity窗口没有变化，可以选择重启功能或者 Assets->Refresh/Reimport All
 
 参考资料[How to use Git for Unity3D source control?](https://stackoverflow.com/questions/18225126/how-to-use-git-for-unity3d-source-control)
